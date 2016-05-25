@@ -7,7 +7,7 @@ hopefully this will help... http://rogerdudler.github.io/git-guide/
 
 The most important/confusing this is that:
 
-when you clone a repo... You are effectively pulling the most recent version of it off of github. You then can work locally on it. If you want to push your changes to the github and commit to my repo, you need to make sure that you are working in the `repository you cloned!` If you work in another similar folder you won't be able to push the changes. It has to be the cloned one! Confusing as fuck. Easier to explain/troubleshoot in person. 
+when you clone a repo... You are effectively pulling the most recent version of it off of github. You then can work locally on it. If you want to push your changes to the github and commit to my repo, you need to make sure that you are working in the *repository you cloned!* If you work in another similar folder you won't be able to push the changes. It has to be the cloned one! Confusing as fuck. Easier to explain/troubleshoot in person. 
 
 *Setup Git... kinda*
 
