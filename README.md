@@ -1,11 +1,11 @@
 # brawler
-game of the year edition
+***Game of the year edition***
 
 Dear Tyler,
 
 hopefully this will help...
 
-**Setup Git... kinda**
+*Setup Git... kinda*
 
 This is a not the best tutorial. If you want to learn how to use it on windows I recommend checking out a few tutorials on youtube.
 ***ZIP OR CLONE?***
