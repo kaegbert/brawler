@@ -32,4 +32,11 @@ If you don't want to do the command line bs, you can just download the zip and w
 
 https://git-scm.com/download/gui/linux
 
-3.
+3. FUCK THIS WE SHOULD JUST SKYPE SOMETIME SOON AND ILL EXPLAIN.
+
+*HOW TO RUN BRAWLER*
+
+Navigate to where the zip/cloned folder and click on the index.html. If you pull the index.html folder into a text editor you will notice that all it is doing is consulting the p5.library and calling up on the sketch.js
+
+Here is a link to the p5 editor if you want to use it...
+https://p5js.org/download/
