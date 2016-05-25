@@ -18,5 +18,8 @@ in command line you can type:
 
 ``` git clone https://github.com/kaegbert/brawler.git```
 
+
 that will download an exact source of the folder on the web.
 Later, you can pull or push (pull changes from the version online so if I make changes, or push your changes to the git page so I can pull them!)
+
+is this fucking working?
