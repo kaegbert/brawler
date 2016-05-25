@@ -7,18 +7,18 @@ hopefully this will help... http://rogerdudler.github.io/git-guide/
 
 The most important/confusing this is that:
 
-when you clone a repo... You are effectively pulling the most recent version of it off of github. You then can work locally on it. If you want to push your changes to the github and commit to my repo, you need to make sure that you are working in the *repository you cloned!* If you work in another similar folder you won't be able to push the changes. It has to be the cloned one! Confusing as fuck. Easier to explain/troubleshoot in person. 
+when you clone a repo... You are effectively pulling the most recent version of it off of github. You then can work locally on it. If you want to push your changes to the github and commit to my repo, you need to make sure that you are working in the *repository you cloned!* If you work in another similar folder you won't be able to push the changes. It has to be the cloned one! Confusing as fuck. Easier to explain/troubleshoot in person.
 
 *Setup Git... kinda*
 
 This is a not the best tutorial. If you want to learn how to use it on windows I recommend checking out a few tutorials on youtube.
 ***ZIP OR CLONE?***
 
-1. **Zip** Download the zip from this page (top left)
+ **Zip** Download the zip from this page (top left)
 
 ![clone](https://github.com/kaegbert/brawler/blob/master/read_imgs/clone.png)
 
-2. **Cloning** I recommend cloning it in terminal. You use command line but I'm pretty sure its the same process.
+ **Cloning** I recommend cloning it in terminal. You use command line but I'm pretty sure its the same process.
 
 Download here:
 http://git-scm.com/download/win
@@ -36,9 +36,9 @@ If you don't want to do the command line bs, you can just download the zip and w
 
 https://git-scm.com/download/gui/linux
 
-3. FUCK THIS WE SHOULD JUST SKYPE SOMETIME SOON AND ILL EXPLAIN.
+FUCK THIS WE SHOULD JUST SKYPE SOMETIME SOON AND ILL EXPLAIN.
 
-*HOW TO RUN BRAWLER*
+****HOW TO RUN BRAWLER****
 
 Navigate to where the zip/cloned folder and click on the index.html. If you pull the index.html folder into a text editor you will notice that all it is doing is consulting the p5.library and calling up on the sketch.js
 
